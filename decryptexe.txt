@@ -1,0 +1,3 @@
+this is just a dummy file that will get served
+
+check config.php and fix the decryptexe path to point to your actual decrypt.exe
